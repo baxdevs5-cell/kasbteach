@@ -1,0 +1,6 @@
+{
+  "name": "SmartKasb Assistant",
+  "description": "Kasbingizni boshqaring. Vaqtingizni tejang. Professional mutaxassislar va kichik bizneslar uchun aqlli raqamli boshqaruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
